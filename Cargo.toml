@@ -6,7 +6,7 @@ description = "Rust client for imgur.com API"
 readme = "readme.md"
 homepage = "https://github.com/l0v3m0n3y/imgur"
 repository = "https://github.com/l0v3m0n3y/imgur"
-keywords = ["get_tags","get_posts","get_welcome_message","get_post_info","suggest","get_comments","get_user_posts","get_user_info","get_comments_by_user"]
+keywords = ["get_tags","get_posts","get_welcome_message","get_post_info","suggest","get_comments","get_user_posts","get_user_info","get_comments_by_user","get_post_meta"]
 categories = ["network-programming"]
 
 [dependencies]
